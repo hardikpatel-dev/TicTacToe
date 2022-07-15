@@ -115,8 +115,7 @@ nav ul{
         grid-template-columns: repeat(3, 20vw);
     }
     .line{
-        height: none;
-        width: 0;
+        height: 0;
     }
     
 }
